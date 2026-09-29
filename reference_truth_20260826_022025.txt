@@ -1,0 +1,17 @@
+TactiCal visual-degradation experiment - REFERENCE (truth)
+timestamp            : 20260826_022025
+truth_source         : tactile
+p_base_true_x_mm     : 302.4229
+p_base_true_y_mm     : 133.5692
+p_base_true_z_mm     : 2.2399
+p_cam_clean_m        : [0.007275430122109065, 0.12870766169677939, 0.7853231089897335]
+clean_pred_mm        : [317.1567702802573, 134.0961567752649, -8.532357047617566]
+calib_lateral_err_mm : 14.7433
+auto_exposure        : True
+exposure_actual      : 166.0
+gain_actual          : 64.0
+blur                 : 0
+noise_sigma          : 0
+occlusion            : 0
+ref_touch_iters      : 1
+ref_touch_dxy_mm     : [0.0]

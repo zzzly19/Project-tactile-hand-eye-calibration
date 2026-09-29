@@ -1,0 +1,7 @@
+## Touch Detection Utilities (Optional)
+
+This folder contains two auxiliary scripts, `touchDetection.py` and `touchDetection_driver.py`, which demonstrate basic touch detection using the DIGIT tactile sensor. These scripts are intended as standalone utilities for testing and visualizing surface contact on the DIGIT sensor and are not an integral component of the TactiCal calibration pipeline.
+
+### Files:
+- `touchDetection.py`: Contains the core touch detection logic, including frame differencing and adaptive thresholding.
+- `touchDetection_driver.py`: A minimal driver script to run real-time touch detection and visualize output using OpenCV.
